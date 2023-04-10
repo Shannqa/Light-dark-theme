@@ -1,7 +1,7 @@
 {
   "name": "@shannqa/light-dark-theme",
-  "version": "2.0.2",
-  "description": "A simple package adding a button with light and dark theme.",
+  "version": "2.3.1",
+  "description": "A simple package adding a light/dark theme switch.",
   "type": "module",
   "exports": {
     ".": "./index.js"
