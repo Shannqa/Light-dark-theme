@@ -1,6 +1,6 @@
 {
   "name": "@shannqa/light-dark-theme",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A simple package adding a button with light and dark theme.",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Shannqa/light-dark-theme.git"
+    "url": "Shannqa/light-dark-theme"
   },
   "bugs": {
     "url": "https://github.com/Shannqa/light-dark-theme/issues"
