@@ -1,0 +1,15 @@
+:root,
+:root.light {
+  --primary-color: hsl(120, 90%, 16%);
+  --secondary-color: hsl(294, 77%, 20%);
+  --bg-secondary: var(--primary-color);
+  --bg-color: white;
+  --font-color: black;
+}
+:root.dark {
+  --primary-color: hsl(120deg 55% 54%);
+  --secondary-color: hsl(294, 71%, 35%);
+  --bg-color: hsl(120deg 7% 10%);
+  --bg-secondary: rgb(32 38 32);
+  --font-color: white;
+}
